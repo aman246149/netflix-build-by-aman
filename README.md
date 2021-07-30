@@ -27,3 +27,8 @@ want a fade bottom bar use this </br>
     rgba(37,37,37,0.61),#111); 
 }
 ```
+
+
+#Day 2
+
+Created Netflix Row With poster 
