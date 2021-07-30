@@ -32,3 +32,6 @@ want a fade bottom bar use this </br>
 #Day 2
 
 Created Netflix Row With poster 
+
+![image](https://user-images.githubusercontent.com/53884276/127683847-2cb79942-a1cb-458c-8615-8f34741ddb4b.png)
+
