@@ -42,3 +42,18 @@
     background-color: #111;
     
 }
+
+
+/* make responsive navbar */
+
+
+@media screen and (max-width: 360px){ 
+    .nav__logo{
+        width: 20%;
+    }
+
+    .nav__avatar{
+        width: 10%;
+        
+    }
+}

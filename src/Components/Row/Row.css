@@ -1,0 +1,30 @@
+
+.row{
+    width: 100vw;
+    color: white;
+}
+
+.imageContainer{
+    display: flex;
+    width: 100%;
+    overflow-x: scroll;
+}
+
+.imageContainer img{
+    height: 200px;
+    width: 300px;
+    object-fit: contain;
+    transition: all 0.3s ease;
+}
+.imageContainer img:hover{
+    transform: scale(1.1);
+
+    transition: all 0.3s ease;
+
+}
+
+::-webkit-scrollbar {
+    width: 0;  /* Remove scrollbar space */
+    background: transparent;  /* Optional: just make scrollbar invisible */
+}
+/* Optional: show position indicator in red */
